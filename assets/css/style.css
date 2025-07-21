@@ -1,11 +1,12 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #4f6c72;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-color: #4f6c72;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
